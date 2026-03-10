@@ -26,7 +26,3 @@ Compile the program:
 g++ main.cpp
 ./a.out
 
-Enter r (Rock), p (Paper), s (Scissors): r
-Computer chose: s
-You win!
-Play again? (y/n)
